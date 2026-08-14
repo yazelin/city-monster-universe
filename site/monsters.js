@@ -1,5 +1,5 @@
 const monsters=[
-['TW-001','台北種','Taipei','總是在趕時間，看起來有點冷淡，其實很溫柔。','身體總有一小塊像剛離開騎樓的乾濕交界。','#68736b'],
+['TW-001','台北種','Taipei','總是在趕時間，看起來有點冷淡，其實很溫柔。','身體總有一小塊像剛離開騎樓的乾濕交界。','#68736b','taipei.html','OBSERVED / VISUAL STUDY'],
 ['TW-002','台中種','Taichung','看起來悠閒，其實非常在意生活品味。','配件永遠比實際用途講究一點。','#b89d75'],
 ['TW-003','高雄種','Kaohsiung','被太陽曬得懶洋洋，講話直接，但非常好相處。','身體邊緣像長期被風吹磨過。','#b97855'],
 ['TW-004','宜蘭種','Yilan','安靜、柔軟，已經把下雨當成日常背景音。','身體吸飽水時會變得更安靜。','#788d7b'],
@@ -21,4 +21,4 @@ const monsters=[
 ['TW-020','新北種','New Taipei','擅長在不同生活圈切換人格；可靠、耐走、很會通勤。','不同棲地的區塊已磨合成同一個身體。','#6e746a']
 ];
 const cards=document.querySelector('#cards');
-monsters.forEach(m=>{const el=document.createElement('article');el.className='card';el.style.setProperty('--tone',m[5]);el.innerHTML=`<span class="id">${m[0]}</span><h3>${m[1]}</h3><span class="en">${m[2]}</span><p class="personality">${m[3]}</p><p class="trace">觀察痕跡：${m[4]}</p><span class="status">STATUS · SEED / IMAGE PENDING</span>`;cards.appendChild(el)});
+monsters.forEach(m=>{const el=document.createElement('article');el.className='card'+(m[6]?' active':'');el.style.setProperty('--tone',m[5]);el.innerHTML=`<span class="id">${m[0]}</span><h3>${m[1]}</h3><span class="en">${m[2]}</span><p class="personality">${m[3]}</p><p class="trace">觀察痕跡：${m[4]}</p><span class="status">STATUS · ${m[7]||'SEED / IMAGE PENDING'}</span>${m[6]?`<a class="card-link" href="${m[6]}">OPEN FIELD RECORD →</a>`:''}`;cards.appendChild(el)});
