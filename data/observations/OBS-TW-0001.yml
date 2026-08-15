@@ -1,0 +1,38 @@
+observation_id: OBS-TW-0001
+record_version: "1.0"
+record_status: ACCEPTED
+place_label: Taipei
+locality: null
+habitat_patch: high-transition urban movement patch
+location_precision: CITY
+observed_at: null
+daypart: null
+temporal_context: null
+conditions:
+  transition_density: HIGH
+  use_ambiguity: UNKNOWN
+  path_dependence: UNKNOWN
+  density: HIGH
+  climate_exposure: MEDIUM
+  material_persistence: HIGH
+  time_variability: UNKNOWN
+observation:
+  behavior: "個體會讀取周遭移動軌跡，在環境規則或人流狀態改變前做小幅偏移、收窄、減速或等待，通過後再恢復原本狀態。"
+  morphology: "早期紀錄呈灰綠、米灰、濕水泥與舊磁磚般表面；目前僅視為 Taipei population trait 候選。"
+  interaction: "對他者路徑高度敏感；可能會預先替即將通過的人留下位置。"
+  observer_note: "最初被誤認為與台北本身綁定；後續研究將核心從『趕時間』收斂為 State Switching。"
+identification:
+  candidate_species: null
+  legacy_reference: TW-001
+  confidence: MEDIUM
+  alternative_identification: "可能與 TW-002 同屬更底層的 Context Reading mechanism。"
+evidence:
+  supports:
+    - STATE_SWITCHING
+    - ADAPTIVE_TRAJECTORY
+  contradicts: []
+  unexpected_result: "雨、灰綠與通勤感可能不是 species identity，而是 local population morphology。"
+  classification_effect: SUPPORTS
+media: []
+revision_history:
+  - "由早期 Taipei species interpretation 重構為 reference observation；未捏造精確站點或時間。"
