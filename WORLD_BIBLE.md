@@ -1,370 +1,356 @@
 # City Monster Universe — World Bible
 
 > 城市不會直接變成怪物。  
-> 是生活在城市裡留下的痕跡，慢慢把牠們塑造成現在的樣子。
+> 是生活在地方裡留下的痕跡，慢慢把牠們塑造成現在的樣子。
 
-這份文件是 City Monster Universe 的共同世界觀與創作準則。角色、圖鑑、網站、Field Notes 與未來的社群共創，都應以此為基礎。它不是不可修改的設定集，而是一份會隨觀察逐步修訂的 Field Bible。
+這份文件是 City Monster Universe 的共同世界觀。它不是不可修改的設定集，而是一份會隨觀察、誤判與重新分類持續修訂的 Field Bible。
 
 ---
 
-## 01. 怪物是什麼？
+## 01. 怪物不是城市代表
 
-城市小怪物不是城市的吉祥物，也不是行政區的擬人化。
+城市小怪物不是城市吉祥物，也不是行政區擬人化。
 
-牠們是一群長期生活在某種地方與生活節奏裡，逐漸被環境、人群、天氣、材質、習慣與記憶塑形的生物。
+牠們是長期生活在某種環境、節奏與人類活動之中的生物，逐漸被天氣、材質、交通、習慣、記憶與微小互動塑形。
 
 因此：
 
-- 台北種不是「台北本人」。
-- 高雄種不是「高雄本人」。
-- 一隻怪物不需要看起來像城市地標，才能屬於那座城市。
-- 真正重要的是：牠為什麼會在這裡長成這個樣子？
+- 在台北第一次看到的生物，不等於「台北種」。
+- 在台中第一次看到的生物，不等於只生活在台中。
+- 一座城市可以同時存在許多 species。
+- 同一 species 可以跨越城市與行政區。
+- 城市名稱首先是 observation location，不是 taxonomy。
 
-我們不是在設計城市代表，而是在記錄一種生活環境可能孕育出的生物。
-
----
-
-## 02. Species ≠ Individual
-
-`TW-001 台北種` 是一個暫定的 species classification，而不是宇宙中唯一的一隻台北角色。
-
-同一物種可以有不同個體：
-
-- 體型略有差異
-- 表面材質不同
-- 習慣不同
-- 年齡不同
-- 生活區域不同
-- 對城市留下的痕跡不同
-
-因此兩個人說「我看到的台北種不是這樣」時，兩個觀察都可能是真的。
-
-這也是未來社群參與的重要基礎：讀者不是在糾正唯一正解，而是在補充同一物種可能存在的不同個體。
+我們不是先決定城市代表，再替牠設計外型；我們是在地方中發現生命，再逐步理解牠是什麼。
 
 ---
 
-## 03. 人類與怪物生活在同一個世界
+## 02. Discovery Model / 發現模型
 
-牠們知道人類存在，也和人類生活在同一層城市裡。
+Archive 的基本推理順序是：
 
-牠們不是秘密生物，也不是需要被揭露的超自然事件。
+`PLACE → OBSERVATION → HABITAT PATTERN → SPECIES HYPOTHESIS → CROSS-REGION EVIDENCE → CLASSIFICATION`
 
-多數時候，人們只是沒有特別注意牠們。
+### PLACE
+Observer 在某個地方遇見異常但反覆出現的生活痕跡。
 
-就像：
+### OBSERVATION
+先記錄行為、環境、時間、材質與互動，不急著命名 species。
 
-- 騎樓邊緣的一塊乾地
-- 牆角慢慢長出的青苔
-- 捷運出口短暫停下的人
-- 早餐店門口被移動過的小椅子
-- 雨天有人替陌生人多留出的半步空間
+### HABITAT PATTERN
+多次紀錄後，找出牠真正依賴的條件，而不是只記行政區。
 
-怪物一直都在。
+### SPECIES HYPOTHESIS
+提出暫定物種假說，包括行為機制、棲地與 morphology，但仍可被推翻。
 
-只是我們偶爾才真正「看見」。
+### CROSS-REGION EVIDENCE
+到其他地方尋找相同行為與身體機制，確認 range、差異與可能的 local population。
+
+### CLASSIFICATION
+只有證據足夠時才形成暫定 species classification；未來仍可重命名、合併、拆分或撤回。
+
+**First observed ≠ Species range.**
 
 ---
 
-## 04. 塑形系統 — What Shapes a Species
+## 03. Classification Layers / 分類層級
 
-每個物種至少應受到以下 3–5 種力量影響。
+世界觀正式區分四層：
+
+### OBSERVATION RECORD / 觀察紀錄
+
+一次或一組目擊紀錄。`TW-###` 首先是 Taiwan Field Archive 的 observation / classification ID，不保證等於一個已確認 species。
+
+### SPECIES / 物種
+
+跨多次觀察仍穩定存在的核心生存策略與身體機制。
+
+Species traits 應回答：
+
+> **無論牠目前出現在哪個 local population，哪些特徵仍讓我們相信牠們是同一 species？**
+
+### POPULATION / 地方族群
+
+同一 species 在某個 lived region 長期生活後形成的地方差異。
+
+Population traits 可能包含：
+
+- 氣候留下的表面痕跡
+- 地方材質造成的色澤與磨耗
+- 特定交通／作息造成的姿態差異
+- 不同飲食、街道或棲地形成的小習慣
+- local range 與目擊頻率
+
+因此「灰綠、潮濕」可能最後只是某 species 的 Taipei population morphology，而不是整個 species 的必要條件。
+
+### INDIVIDUAL / 個體
+
+同一 population 中仍可存在體型、年齡、性格、傷痕、習慣與經歷差異。
+
+因此：
+
+`SPECIES ≠ POPULATION ≠ INDIVIDUAL`
+
+但三層會互相影響。
+
+---
+
+## 04. Range / 分布不是行政地圖填色
+
+怪物不知道縣市界線。
+
+Species range 可以是：
+
+- 跨城市生活圈
+- 河流與河岸
+- 山脈與縱谷
+- 海岸與季風帶
+- 通勤網絡
+- 市場／住商混合型環境
+- 特定交通節點形成的斑塊狀分布
+- 季節性或時間性的棲地
+
+所以一個 species 不一定在地圖上形成連續色塊。
+
+例如牠可能只在不同城市中「具有相似生活壓力的節點」出現。
+
+`Range: UNKNOWN` 是合法而且重要的研究狀態。
+
+---
+
+## 05. What Shapes a Species / 塑形系統
+
+每個物種至少應受到 3–5 種力量影響：
 
 ### WEATHER — 天氣
-
-雨、風、濕度、陽光、鹽分、季節與溫度如何留在牠身上。
+雨、風、濕度、陽光、鹽分、季節與溫度。
 
 ### MATERIAL — 材質
-
-磨石子、磁磚、鐵皮、柏油、水泥、木頭、石材、招牌、老牆等日常表面如何變成身體語言。
+磨石子、磁磚、鐵皮、柏油、水泥、木頭、石材、老牆與長期使用表面。
 
 ### RHYTHM — 節奏
-
-走路速度、交通方式、營業時間、人潮、等待、夜晚與清晨形成的生活節拍。
+步行、交通、轉乘、營業時間、人潮、等待、夜晚與清晨。
 
 ### HABIT — 習慣
-
-當地人不太會特別說出口，但長期重複的小動作。
+居民不一定會說出口，但長期反覆的小動作。
 
 ### MEMORY — 記憶
+曾經存在、逐漸消失或仍被保留的生活痕跡。
 
-一個地方曾經存在、逐漸消失或仍被保留下來的生活痕跡。
+### HUMAN KINDNESS — 微小善意
+不是英雄行為，而是讓半步、扶一下門、替別人留下通道等短暫行為。
 
-### HUMAN KINDNESS — 人的微小善意
-
-這個宇宙很重要的一條力量。
-
-不是英雄式善行，而是那些短到沒有人會記錄的小動作：扶一下門、讓半步路、替別人撿起東西、把最後一點遮雨的位置留出來。
-
-怪物會被這些行為慢慢塑形。
+重要：這些力量可能塑造 **species**，也可能只塑造某個 **population**。Archive 必須嘗試區分。
 
 ---
 
-## 05. 地標不是角色設計
+## 06. Species Trait vs Population Trait Test
 
-### Core Rule
+每次發現一個強烈特徵，都要問：
+
+1. 拿掉發現地名稱後，這個行為仍然成立嗎？
+2. 把同 species 放到另一個相似棲地，核心機制是否仍存在？
+3. 若氣候／材質改變，牠仍是同 species，只是表面改變嗎？
+4. 這個特徵是生存機制，還是地方長期留下的痕跡？
+
+如果核心行為不變、只有表面／小習慣改變，優先視為 **population variation**。
+
+如果生存策略與 morphology mechanism 都發生根本改變，才考慮不同 species。
+
+---
+
+## 07. 地標不是分類證據
 
 **Never use landmarks as the primary proof of place.**
 
-101 不會讓一隻怪物成為台北種。
+101、歌劇院、珍珠奶茶、港口 icon 都不能證明 species identity。
 
-牠在下雨的騎樓裡，下意識替陌生人讓出半步，才會。
+地標可以出現在遠景、記憶或 Field Note，但不應直接組成身體。
 
-因此創作時：
+真正的問題是：
 
-- 不以著名建築直接組成身體
-- 不大量掛上城市 icon
-- 不用觀光紀念品式符號證明地點
-- 不把角色做成地方政府吉祥物
-
-地標可以偶爾存在於遠景、記憶或 Field Note，但不應成為物種辨識的主要方式。
-
-### 問自己
-
-> 如果把城市名稱與地標全部拿掉，我還能從牠的材質、姿態、習慣與氣候感覺到牠生活在哪裡嗎？
-
-如果答案是否定的，角色還沒有完成。
+> **牠為什麼在這種生活環境裡長成這樣？**
 
 ---
 
-## 06. 正面，不等於永遠開心
+## 08. Geographic Specificity 不等於城市限定
 
-城市小怪物可以疲倦、害羞、狼狽、沉默、慢半拍，甚至有一點陰鬱。
+地域特異性不是要求「只有這個縣市才有」。
 
-但牠們不應以厭世、敵意、嘲諷地方居民或負面城市刻板印象作為主要人格。
+真正要找的是：
 
-這個宇宙的正面感來自：
+> 多種環境與生活力量在某個 lived region 以特殊比例共同作用時，形成什麼行為、population morphology 或 species pressure？
 
-- 韌性
-- 好奇
-- 溫柔
-- 幽默
-- 適應力
-- 小小的善意
-- 和生活一起留下來的能力
+因此研究結果可以是：
 
-牠不需要笑。
+- 一個城市高度特有的 population
+- 一個跨城市 species
+- 一個只在特定 habitat patch 出現的 species
+- 一開始被誤認成城市種、後來擴大 range 的 species
 
-但我們應該願意靠近牠。
+重新分類不是失敗，而是 Field Archive 正常運作。
 
 ---
 
-## 07. 抽象程度
+## 09. Anthropomorphism / 擬人程度
 
-角色不能太具體，也不能抽象到失去情感入口。
+**Anthropomorphism is evidence-driven, not mandatory.**
 
-理想狀態是：
+擬人程度由生活與棲地決定，不是系列統一規格，也不能拿來假裝地域差異。
 
-**先像一個有性格的生物，再慢慢發現牠身上的城市痕跡。**
-
-不是先看到「台北」，才看到怪物。
-
-擬人化可以來自：
-
-- 姿態
-- 重心
-- 手腳動作
-- 眼神方向
-- 等待方式
-- 與空間的距離
-
-不一定需要人類衣服或完整人形。
+一個 species 可以偏擬人、偏動物性，甚至接近環境生命。Family resemblance 來自共同觀察方法與「身體被生活塑形」的世界規則，不來自相同 anatomy。
 
 ---
 
-## 08. Field Observer
+## 10. 正面，不等於永遠開心
 
-所有紀錄背後似乎存在一位 Field Observer。
+怪物可以疲倦、害羞、狼狽、沉默、慢半拍甚至有點陰鬱。
 
-我們暫時不說明：
+正面感來自韌性、好奇、溫柔、幽默、適應力、微小善意與留下來生活的能力。
 
-- Observer 是誰
-- 為什麼開始記錄
-- 已經記錄多久
-- 是否只有一位 Observer
-
-網站、Field Notes、分類編號與手寫式觀察，都可以視為這個未知觀察者留下的檔案。
-
-這個謎不需要急著解開。
+牠不需要笑，但我們應該願意靠近牠。
 
 ---
 
-## 09. COLLECTED 並不代表完成
+## 11. Field Observer 可以看錯
 
-狀態系統暫定：
+所有紀錄背後存在未知的 Field Observer，但 Archive 不是上帝視角。
 
-`SEED → OBSERVED → VISUAL STUDY → COLLECTED`
+Observer 可以：
 
-但 `COLLECTED` 的意思不是「官方設定完成」。
+- 把 population trait 誤認成 species trait
+- 把兩個 species 認成一個
+- 把同 species 的不同 population 認成不同物種
+- 錯估 range
+- 被第一個發現地影響命名
 
-它代表：
+錯誤紀錄不必刪除。可以保留成 revision history，例如：
 
-> 我們目前已經觀察到足夠多的痕跡，可以暫時畫出牠。
+`Formerly classified as: Taichung species`  
+`Reclassified after cross-region observations`
 
-因此：
-
-- `COLLECTED v1` 可以變成 `v2`
-- 新的居民觀察可以改變設定
-- 外型可以逐漸修正
-- 分類可能被重新命名
-- 甚至可能發現原本以為是一種的怪物，其實是兩個 species
-
-世界觀必須允許我們承認：「之前可能看錯了。」
+這些修正本身就是世界故事。
 
 ---
 
-## 10. Community = Field Observations
+## 12. COLLECTED 並不代表完成
 
-未來網站上的留言區不只是 Comments。
+研究狀態可包含：
 
-它是：
+`SEED → OBSERVED → FIELD VALIDATION / VISUAL STUDY → COLLECTED`
 
-**COMMUNITY FIELD OBSERVATIONS**
+並允許：
 
-讀者可以提供：
+`COLLECTED → UNDER REVIEW → RECLASSIFIED`
 
+`COLLECTED` 只代表目前有足夠證據形成暫定描繪，不代表永遠正確。
+
+---
+
+## 13. Community = Field Observations
+
+讀者不是在「評論角色」，而是在補充 Field Record。
+
+可以提供：
+
+- 其他地區目擊
+- 同 species 不同 population 的可能證據
+- 個體差異
 - 城市生活記憶
-- 不同個體目擊
 - 設定修正
-- 地方居民觀點
-- 小習慣
-- 二次創作
-- 圖像 reinterpretation
+- 二次創作與 reinterpretation
 
-可能使用的紀錄狀態：
+可能標記：`UNVERIFIED`、`OBSERVATION ACCEPTED`、`DISPUTED`、`ADDED TO FIELD RECORD`。
 
-- `UNVERIFIED`
-- `OBSERVATION ACCEPTED`
-- `DISPUTED`
-- `ADDED TO FIELD RECORD`
-
-核心概念：
-
-> You are not commenting on the monster.  
-> You are adding to its field record.
+社群回報甚至可能改變 species range 或觸發 reclassification。
 
 ---
 
-## 11. 行政區不是物種邊界
-
-這是一條非常重要的世界規則。
-
-人類用台北、新北、台中、高雄、宜蘭、花蓮、台東等行政區整理資料。
-
-怪物不知道縣市界線在哪裡。
-
-因此未來可以存在：
-
-- 跨城市物種
-- 河流物種
-- 山脈物種
-- 海岸物種
-- 縱谷物種
-- 通勤帶物種
-- 城市邊界上的混合型個體
-
-例如：
-
-`TW-??? 淡水河種`
-
-可能同時出現在台北與新北。
-
-`TW-??? 縱谷種`
-
-可能同時被花蓮與台東居民目擊。
-
-有些分類甚至可能標記為：
-
-`FIELD CLASSIFICATION DISPUTED`
-
-所以 City Monster Universe 不應被限制為「22 縣市 = 22 隻怪物」。
-
-22 個行政區只是一開始方便人類整理觀察的方法。
-
-真正的宇宙是一個持續生長的台灣生活生態系。
-
----
-
-## 12. Character Design Checklist
-
-每次正式收錄新物種前，至少回答：
-
-1. 牠生活在哪種環境，而不只是在哪個城市？
-2. 哪些 Weather / Material / Rhythm / Habit / Memory / Human Kindness 塑造了牠？
-3. 拿掉地標後，牠仍然成立嗎？
-4. 牠有什麼非常小、非常日常的習慣？
-5. 牠的正面感從哪裡來？
-6. 哪些材質真的可能在這個地方長期出現？
-7. 牠的姿態透露什麼生活節奏？
-8. 哪個細節是居民才容易注意到的？
-9. 目前哪些設定只是推測？
-10. 未來居民的 Field Observation 有沒有空間改變我們的理解？
-
-如果只能回答「因為這是某城市的特色」，繼續觀察，不要急著畫。
-
----
-
-## 13. Visual Artifact Types
-
-為避免網站與圖像混淆，正式區分：
+## 14. Visual Artifact Types
 
 ### PORTRAIT
-
-單純以怪物本體為主的角色圖。適合首頁卡片、角色辨識與收藏縮圖。
+暫定物種／population 身份描繪。
 
 ### COLLECTED PLATE
-
-完整 Field Guide 圖鑑，可包含角色、局部、材質、筆記、色票與觀察資訊。
+包含角色、局部、材質、色票與觀察資訊的完整圖鑑。
 
 ### FIELD SKETCH
-
-尚未確認的研究稿，可以粗糙、矛盾、帶有推測。
+研究稿，可以粗糙、矛盾，最後被否決。
 
 ### ENVIRONMENTAL SIGHTING
+怪物真正生活於環境中的目擊畫面。
 
-怪物真正生活在環境裡的畫面，不需要正面展示角色。
-
-這四種圖不應互相取代。
-
----
-
-## 14. 台灣只是第一個 Field Archive
-
-目前所有編號使用 `TW-`，代表 Taiwan Field Archive。
-
-這不必意味宇宙永遠只存在於台灣。
-
-但在台灣圖鑑建立成熟以前，不急著擴張世界。
-
-先把一個地方看得夠久。
+### POPULATION STUDY
+同一 species 在不同 lived region 的 morphology / habit 差異研究。
 
 ---
 
-## 15. 最核心的創作句
+## 15. Classification Checklist
 
-如果未來忘記其他規則，只記得這一句：
+正式收錄或重分類前至少回答：
 
-> **不要畫一座城市會長什麼樣子。  
-> 去畫一個在那裡生活很久的生物，最後會留下什麼痕跡。**
+1. 我們記錄的是 observation、species、population 還是 individual？
+2. First observed 在哪裡？Confirmed / suspected range 是什麼？
+3. 牠依賴什麼 habitat pattern，而不是什麼行政區？
+4. 哪些是 species-level mechanism？
+5. 哪些可能只是 population-level trace？
+6. 拿掉城市 icon 是否仍成立？
+7. Relocation 到其他相似棲地會發生什麼？
+8. 與現有 species 的核心生存策略是否真正不同？
+9. 哪些 evidence 尚未確認？
+10. 哪種新觀察會推翻目前分類？
+
+不知道就標記 `UNKNOWN`，不要填答案。
 
 ---
 
-## Current Canon
+## 16. Taiwan Field Archive
 
-### TW-001 · 台北種
+`TW-` 代表 Taiwan Field Archive，不代表城市編號。
 
-**Climate:** Rain / Concrete / Moss  
-**Status:** COLLECTED v1
+台灣是第一個 Field Archive，但不急著擴張世界。先把一個地方看得夠久。
 
-核心生活痕跡：
+---
 
-- 濕氣
-- 通勤
-- 騎樓乾濕交界
-- 灰綠材質
-- 快速移動
-- 短暫、不張揚的小溫柔
+## 17. 最核心的創作句
 
-台北種是目前第一個用來驗證這套 World Bible 的正式物種。
+如果未來忘記其他規則，只記得：
+
+> **不要畫一座城市會長什麼樣子。**  
+> **去觀察一個生命在某種地方生活很久後，留下了什麼。**
+
+以及：
+
+> **發現地不是答案。分類是研究結果。**
+
+---
+
+## Current Archive Hypotheses
+
+### TW-001 · Taipei Observation 001
+
+**First observed:** Taipei  
+**Range:** `UNDER REVIEW / UNKNOWN`  
+**Status:** `COLLECTED v1 — UNDER REVIEW`
+
+目前研究假說：
+
+- `STATE SWITCHING` 可能比單純「快速移動」更接近 species-level mechanism。
+- `Adaptive Trajectory` 可能是其中一種 behavior，而非完整 species definition。
+- 潮濕、灰綠、雨水／騎樓痕跡可能屬於 Taipei population morphology，而不是 species 必要條件。
+- 尚不能分類成「北部通勤種」。
+
+### TW-002 · Taichung Observation 002
+
+**First observed:** Taichung  
+**Range:** `UNKNOWN`  
+**Status:** `OBSERVED — FIELD VALIDATION`
+
+目前研究假說：
+
+- `EDGE READING`：對空間用途切換敏感。
+- `NEGOTIABLE BODY` 目前只是可能的 morphology result，不是已確認 species mechanism。
+- 台中可能只是第一個強烈觀察場域，而非 species range。
 
 ---
 
