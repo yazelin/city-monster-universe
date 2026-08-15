@@ -1,44 +1,76 @@
 # Taiwan Field Archive — Status
 
-> 這份文件是專案的單一進度索引。`TW-###` 是 Archive observation / classification ID，不等於縣市代表角色。Species Canon 存在 `species/`；網站 `docs/` 是展示層。
+> 這份文件是專案的單一進度索引。既有 `TW-###` 是 legacy Archive IDs，不等於縣市代表角色，也不再預設一個 ID 必然等於一個正式 species。
+
+## Canonical model
+
+**台灣存在尚未完全被分類的生活環境生物群。城市是觀察窗口，不是物種容器。**
+
+同一城市可出現多種 species；同一 species 可跨城市出現。真正要記錄的是 habitat suitability、encounter likelihood、population variation 與 observation confidence。
+
+詳細規則：`research/ENCOUNTER_MODEL.md`
 
 ## Classification flow
 
-`SEED → OBSERVED → FIELD VALIDATION / VISUAL STUDY → COLLECTED`
+`OBSERVATION → HABITAT PATTERN → SPECIES HYPOTHESIS → CROSS-REGION EVIDENCE → CLASSIFICATION`
 
-研究可以倒退、重分類或拆分。`COLLECTED` 也可進入 `UNDER REVIEW`。
+正式 species 可經歷：
 
-- **SEED** — 只有初始觀察線索。
-- **OBSERVED** — 已有生活與環境假說，但物種範圍可能未知。
-- **FIELD VALIDATION** — 正在驗證棲地、生活節奏與地域／跨地域範圍。
-- **VISUAL STUDY** — 有足夠生活證據後才收斂 morphology。
-- **COLLECTED** — 目前證據足以形成暫定分類與描繪。
-- **UNDER REVIEW** — 舊分類正在接受新規則或新 evidence 的重新審查。
+`PROVISIONAL → COLLECTED → UNDER REVIEW → RECLASSIFIED / MERGED / SPLIT`
 
 ## Current archive
 
-| ID | Observation label | First observed | Range | Status | Current hypothesis |
+| Legacy ID | Record | First research field | Species status | Range | Current hypothesis |
 |---|---|---|---|---|---|
-| TW-001 | Taipei Observation 001 | 台北 | `UNDER REVIEW` | `COLLECTED v1 — UNDER REVIEW` | 高密度流動中的 Adaptive Trajectory；需重新做地域特異性校準 |
-| TW-002 | Taichung Observation 002 | 台中 | `UNKNOWN` | `OBSERVED — FIELD VALIDATION` | Edge / threshold reading；可能不是台中限定 species |
-| TW-003 | Kaohsiung Observation 003 | 高雄 | `UNKNOWN` | `SEED` | 尚未研究 |
-| TW-004 | Yilan Observation 004 | 宜蘭 | `UNKNOWN` | `SEED` | 尚未研究 |
-| TW-005 | Hualien Observation 005 | 花蓮 | `UNKNOWN` | `SEED` | 尚未研究 |
-| TW-006 | Taitung Observation 006 | 台東 | `UNKNOWN` | `SEED` | 尚未研究 |
+| TW-001 | Taipei Observation 001 | 台北 | `PROVISIONAL / COLLECTED v1 UNDER REVIEW` | `UNKNOWN / broader than Taipei likely` | State Switching；Adaptive Trajectory 為 behavior；濕／灰綠可能是 Taipei population trait |
+| TW-002 | Taichung Observation 002 | 台中 | `PROVISIONAL — FIELD VALIDATION` | `UNKNOWN / broader than Taichung likely` | Edge Reading；Negotiable Body 尚未證明 |
+| TW-003 | Kaohsiung Observation 003 | 高雄 | `NO NEW SPECIES HYPOTHESIS` | `N/A` | 高雄 observation 已促成 Path Dependence 研究，但該 axis 已移至 cross-city layer |
+| TW-004 | Yilan Observation 004 | 宜蘭 | `NOT RESEARCHED` | `UNKNOWN` | 不預設宜蘭專屬 species |
+| TW-005 | Hualien Observation 005 | 花蓮 | `NOT RESEARCHED` | `UNKNOWN` | 不預設花蓮專屬 species |
+| TW-006 | Taitung Observation 006 | 台東 | `NOT RESEARCHED` | `UNKNOWN` | 不預設台東專屬 species |
 
-## Important distinction
+## Important distinctions
 
 **First observed ≠ Species range.**
 
-「在台中第一次被記錄」不能推出「只生活在台中」。未來若在彰化、台南、高雄或其他相似棲地發現 TW-002，應擴大 range、重命名或重分類，而不是忽略新 evidence。
+**First hypothesized in a place ≠ Place-specific ecological mechanism.**
 
-同樣地，一個行政區也可以同時存在多個 species。
+**Frequency ≠ Identity.**
+
+「某 species 在台北很常見」不代表牠是台北種；「台中很少見」也不代表台中沒有牠。
+
+**Habitat patch > administrative boundary.**
+
+同一城市內可以同時存在某 species 的高適生與低適生區域。
+
+## Cross-city research axes
+
+目前研究中的 habitat axes：
+
+- `Transition Density`
+- `Use Ambiguity`
+- `Path Dependence`
+
+它們都是跨城市研究變數，不等於 species，也不屬於最初提出它們的城市。
+
+詳見：`research/CROSS_CITY_HABITAT_HYPOTHESES.md`
+
+## ID migration direction
+
+未來應拆分：
+
+- `OBS-TW-####` — observation record
+- `SP-TW-###` — confirmed / provisional species
+- population layer — 同 species 的地方族群
+
+目前先保留 TW-001/TW-002 等 legacy IDs，避免破壞既有 repo、圖片與 GitHub Pages；正式 migration 另做規劃。
 
 ## Next work
 
-1. TW-002：停止角色造型收斂，研究 `ARRIVAL / EDGE / TIME-OF-DAY / THRESHOLD USE`，並做跨城市比較。
-2. TW-001：以同一套 Geographic Specificity Test 重新校準。
-3. 未來新 observation 先記錄 `First observed` 與 `Range`，不要預設城市名稱就是 species 名稱。
-4. 網站後續應逐步由「城市角色頁」轉向「Field Archive / observation / species」資訊架構。
+1. 建立 Taipei / Taichung / Kaohsiung 的 cross-city habitat comparison，而不是各自尋找「專屬概念」。
+2. 開始把 observation 與 species 資料結構拆開。
+3. 網站長期改為雙入口：`Explore by Place` + `Explore by Species`。
+4. Encounter likelihood 暫用 qualitative levels，不假裝有真實百分比。
+5. 社群回報未來應能成為 Field Observation，影響 range / population / classification。
 
 _Last updated: 2026-08-15_
