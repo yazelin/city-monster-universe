@@ -1,0 +1,39 @@
+observation_id: OBS-TW-0003
+record_version: "1.0"
+record_status: REVIEWED
+place_label: Kaohsiung
+locality: null
+habitat_patch: inherited infrastructure corridor
+location_precision: CITY
+observed_at: null
+daypart: null
+temporal_context: long-term-urban-reuse
+conditions:
+  transition_density: MEDIUM
+  use_ambiguity: MEDIUM
+  path_dependence: HIGH
+  density: UNKNOWN
+  climate_exposure: HIGH
+  material_persistence: HIGH
+  time_variability: LOW
+observation:
+  behavior: "目前沒有足夠證據確認獨立 organism behavior；研究重點是舊 infrastructure 在原功能退場後，是否仍透過 corridor、尺度、高差與邊界塑造新的生活路徑。"
+  morphology: "BLOCKED — 尚未建立第三 species morphology。"
+  interaction: "尚待觀察；不能把使用舊鐵道、港區或工業遺構本身視為 organism evidence。"
+  observer_note: "高雄研究讓 Archive 注意到 Path Dependence，但後續台中等 cross-city evidence 證明此 ecological axis 不屬於高雄。"
+identification:
+  candidate_species: null
+  legacy_reference: TW-003
+  confidence: LOW
+  alternative_identification: "可能不存在新 species；Path Dependence 可能只是跨城市 habitat axis，或被既有 Context Reading 模型解釋。"
+evidence:
+  supports:
+    - PATH_DEPENDENCE_AS_HABITAT_AXIS
+    - INHERITED_INFRASTRUCTURE
+  contradicts:
+    - KAOHSIUNG_ONLY_ECOLOGY
+  unexpected_result: "Inherited Infrastructure 在台中等地同樣成立，因此 First hypothesized in a place 不等於 place-specific mechanism。"
+  classification_effect: NONE
+media: []
+revision_history:
+  - "建立為 habitat research reference record，而非第三 species record。"
