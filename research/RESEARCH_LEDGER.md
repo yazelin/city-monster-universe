@@ -14,6 +14,8 @@ _Last consolidated: 2026-08-15_
 - 所有 organism morphology 目前 `LOCKED`。
 - 既有角色圖只算 `EARLY INTERPRETATION / LEGACY VISUAL STUDY`，不是 morphology canon。
 - 允許 negative result、withdrawal、merge、split 與 reclassification。
+- Evidence class 與 canon status 必須分開標示；詳見 `EVIDENCE_AND_CANON_STATUS.md`。
+- 新 species hypothesis 必須通過 `SPECIES_HYPOTHESIS_THRESHOLD.md`，不能因新城市／新圖／單一 behavior 直接建立。
 
 ## Active research ledger
 
@@ -27,14 +29,36 @@ _Last consolidated: 2026-08-15_
 | Use Ambiguity | habitat axis | ACTIVE | medium as research axis | cross-city matched-patch observations |
 | Path Dependence | habitat axis | ACTIVE RESEARCH | provisional | repeated organism-linked response across inherited infrastructure patches |
 | Climate Exposure | habitat axis | CANDIDATE CROSS-CITY AXIS | unconfirmed | separation from Transition/Use Ambiguity + cross-city replication + low-exposure control |
-| TW-001 | legacy classification | SPECIES STATUS UNRESOLVED | low | evidence separating species from behavior/population |
-| TW-002 | legacy classification | SPECIES STATUS UNRESOLVED | low | evidence separating species from behavior/population |
+| TW-001 | legacy classification | SPECIES STATUS UNRESOLVED | low | pass species hypothesis threshold |
+| TW-002 | legacy classification | SPECIES STATUS UNRESOLVED | low | pass species hypothesis threshold |
 | TW-003 | legacy label | NO THIRD SPECIES HYPOTHESIS | — | genuinely repeated distinct organism evidence |
 | TW-001 = TW-002? | taxonomy | OPEN POSSIBILITY | unresolved | decisive one-species/two-modes vs two-species observations |
 | TRACE-TP-001 | individual trace candidate | LOW+ / NOT PROMOTED | low | blind test with non-constructed observations and multi-feature residual signature |
 | Taipei grey-green / wet-concrete traits | population morphology candidate | NOT SPECIES EVIDENCE | very low | repeated population-linked morphology after morphology gate opens |
 | Taichung low/rounded form | legacy visual interpretation | UNSUPPORTED AS BIOLOGY | very low | future independent morphology evidence only |
 | Morphology | research domain | LOCKED | — | must pass Morphology Unlock Gate |
+
+## Evidence system now in force
+
+Evidence classes:
+
+`LIT` literary observation  
+`SIM` constructed/simulation test  
+`OBS` field observation  
+`REP` independent replication  
+`NEG` negative/contradictory evidence  
+`LEG` legacy material
+
+Canon states:
+
+`CANON-A` operational canon  
+`CANON-B` working model  
+`PROVISIONAL`  
+`OPEN`  
+`REJECTED`  
+`UNKNOWN`
+
+Important retrospective ruling: **FN-001 ~ FN-007 are primarily `LIT + SIM`, not seven real field observations.** They generate hypotheses and tests but cannot alone prove natural species existence, range, frequency or individual identity.
 
 ## Evidence rules currently in force
 
@@ -48,6 +72,7 @@ _Last consolidated: 2026-08-15_
 8. 沒看到東西也是合法 evidence。
 9. 能被反證的 hypothesis 優於只能被形容的設定。
 10. 新研究完成後必須更新本 Ledger。
+11. 新 species 必須先通過 species hypothesis threshold；legacy TW numbers 不視為已確認 species 數量。
 
 ## Current strongest conclusions
 
@@ -69,6 +94,10 @@ _Last consolidated: 2026-08-15_
 
 分類錯誤、撤回與重新分類不是 continuity error，而是 Archive 的知識成長方式。
 
+**E. Naming a species is a gated research event.**
+
+新 species 不是因為需要新角色而產生；必須在現有 model 無法合理解釋 repeated evidence 時才開啟 species hypothesis。
+
 ## What is NOT established
 
 目前沒有證據支持以下句子成為 canon：
@@ -82,6 +111,7 @@ _Last consolidated: 2026-08-15_
 - 「雨、太陽、風本身可以定義城市 species。」
 - 「TRACE-TP-001 已經是確認個體。」
 - 「既有插圖就是正式 anatomy。」
+- 「FN-001 ~ FN-007 是七筆真實田野資料。」
 
 ## Required update loop
 
