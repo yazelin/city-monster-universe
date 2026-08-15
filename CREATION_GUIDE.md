@@ -45,13 +45,64 @@
 
 ## 07. Visual DNA
 
-優先：不規則輪廓、有觸感表面、克制表情、姿態式擬人、環境累積痕跡、觀察紀錄感、安靜幽默。
+優先：不規則輪廓、有觸感表面、克制的情緒表達、環境累積痕跡、觀察紀錄感、安靜幽默，以及「身體是被生活塑造出來的」這個共同原則。
 
-避免：企業 mascot、玩具式 3D、generic kawaii、大量配件、地標形身體、觀光 icon 拼貼、永遠笑臉。
+避免：企業 mascot、玩具式 3D、generic kawaii、大量配件、地標形身體、觀光 icon 拼貼、永遠笑臉，以及為了讓系列看起來一致而強迫所有 species 使用同一套人體骨架。
 
-## 08. 擬人程度
+## 08. Anthropomorphism / 擬人程度
 
-擬人感來自姿態、重心、猶豫、等待、視線、讓出空間、走路與休息方式，不靠人類服裝解釋人格。
+**Anthropomorphism is evidence-driven, not mandatory.**  
+**擬人程度由生活與棲地決定，不是系列統一規格。**
+
+不同 species 可以位於不同的生命形態光譜：
+
+`環境生命 ←———→ 動物性 ←———→ 擬人性`
+
+某個物種可以高度擬人，也可以低重心、偏動物性，甚至接近環境生命。差異必須能由牠的棲地、行為與生存策略解釋，而不能只是為了視覺上「跟上一隻不一樣」。
+
+### 不要求所有物種
+
+- 都有手與腳
+- 都能直立
+- 都有明確人類式頭／軀幹
+- 都使用相同頭身比例
+- 都以人類表情作為主要情緒來源
+
+### 擬人感可能來自
+
+姿態、重心、猶豫、等待、視線、與其他生物保持距離、讓出空間、保護某物、移動節奏、休息方式與對環境的反應。
+
+人類服裝不應成為人格捷徑。
+
+### Evidence rule
+
+如果提高或降低擬人程度，必須回答：
+
+> **為什麼這種身體比另一種身體更適合牠在這個 lived region 長期生活？**
+
+如果唯一答案是「比較可愛」「比較有城市差異」「系列需要不同造型」，則證據不足。
+
+### Geographic Specificity ≠ Anthropomorphic Difference
+
+不得用「這個城市比較像人、那個城市比較像動物」取代真正的 Geographic Specificity。
+
+城市／生活圈差異應來自生存策略、空間關係、節奏、材質、氣候與行為，而不是單純改變擬人程度。
+
+### Character Family Test / 世界觀家族測試
+
+把不同 species 放在同一張沒有城市名稱與文字的圖中，即使牠們的身體結構與擬人程度完全不同，仍應感覺是**同一套觀察方法發現的生命**，而不是「一個主角 + 一隻寵物」或來自兩套完全不同的角色 IP。
+
+共同感應由以下因素建立：
+
+- 身體被生活塑形
+- 克制而可讀的情緒
+- 有觸感與時間痕跡的材質
+- 不依靠 icon 證明地域
+- 正面感來自行為而非固定笑臉
+- Field Observer 的觀察視角
+- 允許不完美、未知與錯誤分類
+
+因此 **Family ≠ Same Anatomy**。
 
 ## 09. Evidence States
 
@@ -87,20 +138,22 @@ Field Record 不是上帝視角。失敗的 Field Sketch 不必刪除，可標�
 5. 定義 Core Tension 與小習慣。
 6. 找出正面情感來源。
 7. 建立材質與氣候語彙。
-8. 先寫 `Visual Don'ts`。
-9. 製作 `FIELD SKETCH`。
-10. 執行 Geographic Specificity Test。
-11. 與現有 species 做 Cross-species Calibration。
-12. 淘汰 generic / icon-dependent 設計。
-13. 收斂 `PORTRAIT`。
-14. 成立後才做 `COLLECTED PLATE`。
-15. 至少一則 `FIELD NOTE`。
-16. 記錄未知與被推翻假說。
-17. 通過審查才 `COLLECTED v1`。
+8. 判斷擬人程度是否由 evidence 支持。
+9. 先寫 `Visual Don'ts`。
+10. 製作 `FIELD SKETCH`。
+11. 執行 Geographic Specificity Test。
+12. 執行 Character Family Test。
+13. 與現有 species 做 Cross-species Calibration。
+14. 淘汰 generic / icon-dependent 設計。
+15. 收斂 `PORTRAIT`。
+16. 成立後才做 `COLLECTED PLATE`。
+17. 至少一則 `FIELD NOTE`。
+18. 記錄未知與被推翻假說。
+19. 通過審查才 `COLLECTED v1`。
 
 ## 14. COLLECTED 前檢查
 
-必須確認：像生物而非觀光企劃；能解釋身體成因；至少三種塑形力量；具體 Core Tension；正面感來自行為；不依賴 icon；有居民尺度細節；未知與 Canon 分開；通過 City-name removal test；通過至少三地 Relocation Test；與現有 species 生存策略不同。
+必須確認：像生物而非觀光企劃；能解釋身體成因；至少三種塑形力量；具體 Core Tension；正面感來自行為；不依賴 icon；有居民尺度細節；未知與 Canon 分開；通過 City-name removal test；通過至少三地 Relocation Test；與現有 species 生存策略不同；擬人程度有生活／棲地證據；與其他 species 通過 Character Family Test。
 
 若多項答案弱，退回研究階段。
 
@@ -110,11 +163,11 @@ Canon 存在 `species/`；網站只是 presentation layer。設定不能只存�
 
 ## 16. Prompt 原則
 
-Prompt 描述**牠如何生活**，先寫原因、環境、行為與身體反應，不列出城市代表物。
+Prompt 描述**牠如何生活**，先寫原因、環境、行為與身體反應，不列出城市代表物，也不預設 humanoid anatomy。先從生活證據推導身體，再決定牠像人、像動物，或更接近環境生命。
 
 ## 17. 卡住時回去觀察
 
-當角色 generic、過度可愛、依賴符號時，不加配件。問牠在不同時間、天氣、等待、獨處、被別人靠近時怎麼使用身體。如果答案同樣適用大量其他城市，繼續研究地域組合。
+當角色 generic、過度可愛、依賴符號時，不加配件，也不要用「改成更像人／更不像人」當作快速區隔方式。問牠在不同時間、天氣、等待、獨處、被別人靠近時怎麼使用身體。如果答案同樣適用大量其他城市，繼續研究地域組合。
 
 ---
 
