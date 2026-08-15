@@ -1,0 +1,39 @@
+observation_id: OBS-TW-0002
+record_version: "1.0"
+record_status: REVIEWED
+place_label: Taichung
+locality: null
+habitat_patch: mixed-use edge / threshold
+location_precision: CITY
+observed_at: null
+daypart: null
+temporal_context: variable-use-period
+conditions:
+  transition_density: LOW
+  use_ambiguity: HIGH
+  path_dependence: UNKNOWN
+  density: MEDIUM
+  climate_exposure: UNKNOWN
+  material_persistence: MEDIUM
+  time_variability: HIGH
+observation:
+  behavior: "個體似乎會依同一小塊空間當下是通行、停車、營業、停留或住宅延伸而改變位置與姿態，只調整必要部分。"
+  morphology: "早期 field sketch 為低矮、圓潤、帶刺或毛束的外型；目前 morphology evidence 不足，不視為 species identity。"
+  interaction: "對 threshold 上的人、車、店面與物件配置變化敏感。"
+  observer_note: "最初被稱為台中種；cross-region evidence 顯示相似 edge-use ambiguity 亦存在台南與高雄。"
+identification:
+  candidate_species: null
+  legacy_reference: TW-002
+  confidence: MEDIUM
+  alternative_identification: "可能是 Context Reading organism 的 stationary / edge-reading behavioral mode。"
+evidence:
+  supports:
+    - EDGE_READING
+    - THRESHOLD_NEGOTIATION
+  contradicts:
+    - TAICHUNG_ONLY_RANGE
+  unexpected_result: "可愛角落生物式 morphology 可能只是早期視覺投射，沒有 ecological support。"
+  classification_effect: REQUIRES_REVIEW
+media: []
+revision_history:
+  - "由 Taichung character concept 重構為 mixed-use edge reference observation；保留 morphology uncertainty。"
