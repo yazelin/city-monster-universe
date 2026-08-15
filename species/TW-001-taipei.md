@@ -1,137 +1,139 @@
-# TW-001 — 台北種 / Taipei
+# TW-001 — Taipei Observation 001
 
 > **Archive:** Taiwan Field Archive  
 > **Status:** `COLLECTED v1 — UNDER REVIEW`  
-> **Classification:** 暫定北台北高密度都會生活型物種  
-> **Version:** 1.1-review  
+> **First observed:** Taipei  
+> **Range:** `UNKNOWN / likely broader than Taipei`  
+> **Classification:** provisional state-switching urban organism  
+> **Version:** 1.2-review  
 > **Last reviewed:** 2026-08-15
 
 ## Review Note
 
-TW-001 是第一個被 `COLLECTED` 的物種，因此早期審查標準比現在寬鬆。建立 Geographic Specificity Test 後，牠沒有豁免權。
+TW-001 是第一個被 `COLLECTED` 的 observation。早期曾直接稱為「台北種」，但新分類規則要求把發現地、species、population 分開。
 
-雨、騎樓、通勤、灰綠水泥與讓路都不是台北獨有。這些可以保留為 shaping forces，但不足以單獨證明 species identity。
+目前不能證明 TW-001 為台北限定 species。
 
-目前重新研究的核心不是「台北很快」，而是：
+## Cross-region Evidence — 2026-08-15
 
-> **高密度流動中的微小協調。**
+新北的官方交通規劃提供了明確反證：板橋站本身就是捷運、高鐵、臺鐵與客運交會的多模式轉乘節點；新北其他新捷運系統也刻意整合公車、YouBike、機車、接送與步行的「最後一哩」轉乘。
 
-暫定研究詞：`ADAPTIVE TRAJECTORY`。
+因此：
 
-## Geographic Fingerprint Hypothesis
+> **多模式轉乘、快速切換與轉乘動線壓力並非台北市行政區獨有。**
 
-台北種可能特別擅長讀取其他生物的**移動軌跡**，在非常短的時間內調整自己的方向、寬度、速度與停頓。
+這使 `Adaptive Trajectory` 與 `State Switching` 更像是某種高轉換都市 habitat 的 species-level 候選，而不是「台北特色」。
 
-牠解決的問題不是「我要在哪裡待」，而是：
+目前 range 至少應保持開放，不應標記 Taipei-only。
 
-> **大家都在動，我要怎麼穿過去而不打亂彼此？**
+## Species Hypothesis — STATE SWITCHING
 
-這和 TW-002 台中研究中的「如何在節點安頓、協商停留空間」形成第一組 Cross-species Calibration。
+目前比「趕時間」更值得研究的核心是：
 
-## Habitat / 棲地
+> **牠長期生活在需要快速切換行動規則的環境。**
 
-研究範圍暫不等同台北市行政界。較合理的單位可能是高密度步行、公共運輸、室內外快速切換與雨天人流重疊的北台北都會環境。
+可能切換包括：
 
-是否延伸至新北部分生活圈，仍為 `UNVERIFIED`。
+- 街道 → 車站
+- 步行 → 大眾運輸
+- 月台 → 車廂
+- 一種運具 → 另一種運具
+- 室外 → 室內
+- 雨中 → 遮蔽
+- 高密度流動 → 短暫停留
 
-## Core Tension / 核心矛盾（review）
+`Adaptive Trajectory` 目前降級為這套機制下的一種 behavior：牠會讀取他者移動軌跡，快速做小幅偏移、收窄、減速或等待。
+
+## Taipei Population Hypothesis
+
+既有視覺中的以下特徵暫時改視為 **Taipei population trait 候選**，而非 species 必要條件：
+
+- 灰綠與米灰
+- 濕水泥、舊磁磚、磨石子
+- 乾濕交界
+- 高濕與雨水痕跡
+- 略微前傾的通勤姿態
+
+未來若在其他地區發現相同行為機制但 morphology 不同，可建立 `POPULATION STUDY`。
+
+## Core Tension / 核心矛盾候選
 
 舊版：**總在趕路，卻會為陌生人短暫停下。**
 
-新版研究候選：
+目前研究候選：
+
+> **牠必須一直改變自己，才能讓移動看起來毫不費力。**
+
+以及：
 
 > **牠很少真正停下，卻一直在替別人的下一步留下位置。**
 
-尚未升格為正式 Canon。
-
-## Body / 身體
-
-既有 Canon 暫時保留：灰綠、米灰、褪色表面、乾濕交界、略前傾重心。
-
-新增待測機制：
-
-- 對接近中的軌跡做小幅預判偏移。
-- 人流變窄時，身體可以短暫收窄，但不是 TW-002 那種為「停留」調整面積。
-- 方向改變應該是連續、小幅、快速，而不是誇張變形。
-- 即使靜止，姿態仍保留下一個移動方向。
+皆為 `PROVISIONAL`。
 
 ## Rhythm / 節奏
 
-`FLOW → READ → ADJUST → PASS → CONTINUE`
+暫定：
 
-重點不是單純速度，而是持續讀取與修正。
+`ENTER → READ → SWITCH → MERGE → PASS → DISPERSE`
 
-## Tiny Habits / 重新觀察
-
-- 很會在人群裡找到剛好能穿過去的縫。（保留，提升為重要研究線索）
-- 接近出口、轉角或窄處時，會提早半步改變路線。
-- 遇到迎面而來的生物時，調整通常小到雙方都不覺得自己「讓路」。`UNVERIFIED`
-- 雨天進入遮蔽物時，可能先收窄容易碰到別人的部分。`UNVERIFIED`
-- 短暫善意仍存在，但「扶門／撿卡片」不再被視為地域 fingerprint。
+重點不是速度，而是「環境規則改變時能否快速切換」。
 
 ## Human Kindness
 
-既有的扶門、讓半步、撿東西、挪出遮蔽空間保留為性格觀察。
+扶門、撿東西等既有觀察保留為個體／population 性格紀錄，不再視為 species fingerprint。
 
-Review 後的研究重點是更微小的：
+更值得研究的微小善意是：
 
-> **牠的體貼可能常發生在事情發生以前。**
+> **體貼經常發生在事情發生以前。**
 
-例如預先偏一點、慢半步、留下出口，而不是事後做一個明顯善舉。
+例如預先偏一點、慢半步、留出出口；但此行為仍需更多跨地區 evidence。
 
-## Weather / Materials
+## Geographic Specificity Result
 
-雨、灰綠舊磁磚、濕水泥、磨石子、褪色城市表面與乾濕交界仍保留。它們是 habitat evidence，不單獨構成 geographic specificity。
+### Taipei-only hypothesis
 
-## Palette
+`NOT SUPPORTED`
 
-**Visual Climate:** `Rain / Concrete / Moss`
+目前資料已足以證明高轉乘、高狀態切換的生活壓力跨越台北行政界。
 
-- Transit Ink — `#22241F`
-- Wet Coat — `#343C35`
-- Tile Moss — `#687168`
-- Wet Concrete — `#96958A`
-- Old Canvas — `#A99A78`
-- Rain Paper — `#D7D1BF`
+### Northern-region species hypothesis
 
-## Visual Don'ts
+`NOT YET SUPPORTED`
 
-- 台北 101、捷運列車、台灣地圖等 icon anatomy
-- 名產角色化
-- 撐雨傘的普通人類 mascot
-- 觀光 icon 拼貼
-- 光亮企業 mascot / 玩具式 3D
-- 用誇張笑臉表現正面感
-- 把「快」畫成速度線或超能力
-- 把 Adaptive Trajectory 畫成交通工具能力
+不能因為新北也成立，就直接命名為「北部通勤種」。仍需要基隆、桃園及其他台灣／海外城市比較。
 
-## Geographic Specificity Review
+### Species vs Population
 
-### Relocation Test
+`ACTIVE REVIEW`
 
-必須比較至少：
+目前最重要的研究問題：
 
-- 新北：哪些高密度通勤行為其實屬於同一 lived region？
-- 基隆：高濕與雨是否會造成相似但不同的物種策略？
-- 高雄：較不同的空間尺度與氣候下，Adaptive Trajectory 是否仍維持？
-- 另選一個海外高密度城市：測試此 morphology 是否只是 generic metropolitan behavior。
+> 哪些是 state-switching species 的穩定 mechanism，哪些只是 Taipei population 被雨、材質與密度塑造出的外觀？
 
-### Pass Condition
+## Visual Status
 
-只有當「軌跡預判 + 高密度微協調 + 特定氣候／材質／空間切換」形成不可隨意搬移的組合時，才解除 `UNDER REVIEW`。
+- `COLLECTED PLATE v1` — 保留為 Taipei population / Observer first classification 的歷史紀錄
+- `VISUAL STUDY v1` — 保留
+- `PORTRAIT` — 暫緩正式收錄
+- `POPULATION STUDY` — 下一階段重要資產類型
 
-## Visual Artifacts
+## Current Evidence State
 
-- `COLLECTED PLATE v1` — 保留，代表 Observer 第一階段理解
-- `VISUAL STUDY v1` — 保留為研究歷史
-- `PORTRAIT` — 尚未正式收錄
-- `ENVIRONMENTAL SIGHTING` — 尚未正式收錄
+- Taipei-only species — `NOT SUPPORTED`
+- State Switching — `PROVISIONAL SPECIES HYPOTHESIS`
+- Adaptive Trajectory — `SUPPORTED BEHAVIOR DIRECTION`
+- Taipei wet/grey morphology — `PROVISIONAL POPULATION TRAIT`
+- Confirmed range — `UNKNOWN`
+- Anthropomorphism — `UNDER REVIEW`
 
-## Community Observations
+## Next Step
 
-`RESERVED`
+`CROSS-REGION VALIDATION — KEELUNG / TAOYUAN / KAOHSIUNG / OVERSEAS CONTROL`
+
+目的不是找相似處，而是找出什麼條件消失後 TW-001 的 mechanism 也會失效。
 
 ## Revision History
 
-- **v1.0 — 2026-08-15** — 第一個正式 `COLLECTED` 版本。
-- **v1.1-review — 2026-08-15** — 新 Geographic Specificity Test 建立後重新審查；研究核心由「趕時間」轉向 `ADAPTIVE TRAJECTORY / 高密度流動中的微小協調`。既有圖像保留為 Archive 歷史，不視為最終定論。
+- **v1.0** — 第一個正式 `COLLECTED` 版本。
+- **v1.1-review** — 以 Geographic Specificity Test 重審，研究核心轉向 `ADAPTIVE TRAJECTORY`。
+- **v1.2-review** — 新北 cross-region evidence 證明 Taipei-only 假說不成立；研究核心上移至 `STATE SWITCHING`，並把雨／灰綠材質降為 Taipei population trait 候選。
