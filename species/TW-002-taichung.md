@@ -1,267 +1,184 @@
-# TW-002 — 台中種 / Taichung
+# TW-002 — 台中都會生活圈暫定種 / Taichung
 
 > **Archive:** Taiwan Field Archive  
-> **Status:** `VISUAL STUDY`  
-> **Classification:** 暫定城市生活型物種  
-> **Version:** 0.2 — field study  
+> **Status:** `OBSERVED — RESEARCH REFOCUS`  
+> **Classification:** 暫定台中都會生活圈節點型物種  
+> **Version:** 0.3 — geographic specificity review  
 > **Last reviewed:** 2026-08-15
 
-> 這不是完成設定。這是一份正在累積證據的 Field Record。未知的地方保留未知，不為了填滿角色而硬造答案。
+> 「台中」目前是發現地標籤，不代表整個台中市只有一個 species，也不代表行政邊界就是棲地邊界。
 
----
+## Revision Note
 
-## Evidence Note / 觀察依據
+前一輪把核心放在 `DISTANCE / PAUSE / WIDTH / SHADE / RELEASE`，並研究 Transit Form ↔ Resting Form。
 
-台中市官方運具統計顯示，113 年外出民眾使用私人機動運具的市占率為 81.6%。這不直接證明任何人格，但足以支持「移動不是持續步行，而常是跨越一段距離後進入另一個生活節點」作為值得研究的城市節奏。
+Geographic Specificity Test 顯示：**這套 morphology 太容易移植到其他都市。**
 
-另一方面，台中市政府把騎樓描述為連結店家、住宅與公共空間的重要界面，且持續進行騎樓整平工程。這讓「移動之間的停留空間」成為比單純的『悠閒』更具體的研究方向。
+因此 Field Sketch 01 的「收窄／展開」機制不再視為台中 species identity，而標記為：
 
-這些資料只作為生活結構的 evidence，不直接等同於角色設定。
+`GENERIC URBAN MORPHOLOGY — useful, but insufficient`
 
----
+研究沒有刪除。Observer 的錯誤本身是 Archive 的一部分。
+
+## Research Unit / 研究單位
+
+台中行政區內包含都會、屯區、山城、濱海等差異很大的生活環境，因此 TW-002 暫不宣稱代表「整個台中」。
+
+目前研究單位收斂為：
+
+> **台中都會生活圈中，以跨節點移動、抵達後進入小尺度生活空間為主要節奏的環境。**
+
+未來完全可能在台中行政區內發現其他 species；也可能發現 TW-002 的 lived region 延伸至行政邊界之外。
+
+## Evidence Direction
+
+官方交通資料支持台中私人機動運具使用比例高，適合作為「跨距離、節點式生活」的研究線索；騎樓改善與相關空間政策則支持店家、住宅、公共通行之間的 threshold 是值得觀察的生活界面。
+
+這些 evidence 不直接等於角色人格，只用來建立可檢驗的 habitat hypothesis。
 
 ## Core Observation / 核心觀察
 
-台中種目前最成立的方向不是「很悠閒」，而是：
+新版研究不再是「牠喜歡停下來」，而是：
 
-> **牠很習慣跨越距離，卻非常在意停下來的那一小塊地方。**
+> **牠常跨越很大的城市尺度，真正開始生活時，使用的卻是一小塊介於公與私之間的位置。**
 
-牠的生活節奏不是持續向前，而更像：
+節奏暫定：
 
-`TRANSIT → ARRIVAL → EXPANSION → PAUSE → TRANSIT`
-
-這使牠和 TW-001 台北種產生明確差異：
-
-- 台北種：即使停下來，身體仍像準備繼續走。
-- 台中種：移動時真的在移動；停下來時，也真的停下來。
-
----
-
-## Shaping Forces / 塑形力量
-
-### RHYTHM — Distance / 距離
-
-主要研究力量。
-
-私人機動運具高度使用本身不是角色符號；重要的是它暗示生活常由一個個相隔的節點構成。
-
-因此台中種可能發展出非常明顯的「移動模式」與「抵達模式」。
-
-### HABIT — Pause / 停留
-
-抵達一個位置後，牠不會維持移動姿態。
-
-牠會重新判斷空間：哪裡可以靠、哪裡有陰影、哪裡不妨礙別人、哪裡值得多待一下。
-
-### SPACE — Threshold / 介面
-
-騎樓、店門、住宅與公共空間之間的邊緣值得成為重要棲地語彙。
-
-台中種可能偏好「不是完全室內、也不是完全暴露」的位置。
-
-### WEATHER — Sun / Shade / 光與陰影
-
-目前不把「台中很熱」直接人格化。
-
-真正值得畫的是牠對光與遮蔽的反應：停留時可能自然把身體較柔軟的部分移入陰影，或沿著陰影邊界展開。
-
-### MATERIAL — Warm Concrete / Faded Surface
-
-研究方向：被日照反覆曬乾的水泥、霧面磁磚、金屬遮棚、柏油、舊店面表面、植栽陰影留下的色差。
-
----
+`CROSS → DOCK → INHABIT → NEGOTIATE → CROSS`
 
 ## Core Tension / 核心矛盾
 
-**移動範圍很大，但對自己的停留位置非常挑剔。**
+> **城市很大，但牠真正使用的地方總是很小。**
 
-牠不是懶。
+第二層：
 
-牠只是把「移動」和「停留」分得很清楚。
+> **牠可以很舒服，但不需要把那塊地方完全變成自己的。**
 
----
+兩句目前皆為 `PROVISIONAL`。
 
-## Personality / 性格方向
+## Spatial Strategy — NEGOTIABLE BODY
 
-- 不急著回應，但通常有在聽。
-- 決定移動後很乾脆。
-- 抵達後不喜歡立刻又被催著走。
-- 對空間舒適度比對時間更敏感。
-- 找到合適的位置後，身體會明顯放鬆。
-- 不會為了表現友善一直靠近別人；牠比較常透過「選一個不妨礙人的位置」表達體貼。
+新版身體研究核心：**可協商的身體**。
 
-最後一點目前仍屬 `UNVERIFIED`，可作為 Human Kindness 的候選，而不是正式 Canon。
+這不是變形超能力，也不是單純展開／收縮。
 
----
+牠長期生活在共享、借用、穿越、暫停的 threshold，因此身體學會依周圍剩餘空間做很小的排列調整。
 
-## Body System / 身體系統
+可能行為：
 
-這一輪不先決定五官，而先決定**狀態轉換**。
+- 靠一下 → 看一下 → 挪一下 → 才安頓。
+- 柱腳、店面邊、遮蔽物邊緣等位置會影響身體排列。
+- 有其他生物通過時，只收起真正擋路的部分。
+- 通道恢復後，再慢慢回到舒服的形狀。
+- 不追求「我的位置」的明確邊界。
 
-### TRANSIT FORM — 移動型
+## Difference from TW-001
 
-- 輪廓收窄
-- 重心向前但不焦躁
-- 柔軟附肢貼近身體
-- 整體像把自己整理成適合穿越距離的形狀
-- 不使用輪子、機車、車殼等直接交通符號
+### TW-001 — Adaptive Trajectory
+核心問題：**我要怎麼穿過？**  
+主要關係：移動軌跡。  
+身體策略：預判、偏移、收窄、繼續流動。
 
-### RESTING FORM — 停留型
+### TW-002 — Negotiable Body
+核心問題：**我要怎麼在這裡待？**  
+主要關係：節點與 threshold。  
+身體策略：嵌入、安頓、局部收放、共享有限停留空間。
 
-- 身體橫向展開
-- 重心下降
-- 附肢自然鬆開
-- 接觸地面的面積增加
-- 可能沿陰影方向微微偏展
-- 看起來不是躺平，而是「終於不用把自己收好」
+如果未來研究發現兩者只是同一 generic urban behavior，兩個 species 都必須再次調整。
 
-### TRANSITION MOMENT — 轉換瞬間
+## Shaping Forces
 
-最值得探索的畫面可能不是 Transit 或 Resting 本身，而是牠剛抵達、準備展開的那一秒。
+### DISTANCE / 大尺度跨越
+不是「走很遠」本身，而是生活節點彼此分離。
 
-這可能成為台中種最具辨識度的姿態。
+### NODE / 節點
+抵達後，生活尺度突然縮小。
 
----
+### THRESHOLD / 公私介面
+偏好不是完全室內、也不是完全公共的模糊邊緣。
 
-## FIELD SKETCH — 第一輪三個輪廓方向
+### SHADE & EXPOSURE / 遮蔽
+光熱仍是 shaping force，但不再單獨作為台中特色。
 
-### A. Folding Body / 折疊型
-
-身體像柔軟但有厚度的片狀生物。
-
-移動時兩側向內折，形成較窄的直立輪廓；停下後兩側慢慢打開，像把自己的空間重新放回地面。
-
-**優點：** 狀態差異非常清楚。  
-**風險：** 太像植物葉片或雨傘時要淘汰。
-
-### B. Low Soft Mass / 低重心軟體型
-
-移動時稍微拉高、變窄；停下後身體向兩側與地面沉下，形成低而穩的輪廓。
-
-**優點：** 很容易表現「真的停下來」。  
-**風險：** 太軟可能變成 generic 可愛 blob。
-
-### C. Side-Fin Body / 側翼型
-
-主體保持小而穩，兩側有不是手也不是翅膀的厚短附肢。移動時收在身側，停留時像找位置一樣一邊一邊展開。
-
-**優點：** 擬人姿態容易成立，也能表現微小空間判斷。  
-**風險：** 不可畫成翅膀、披風或交通工具部件。
-
-### 第一順位
-
-目前優先探索 **C + B 的混合**：
-
-> 小而穩的核心身體 + 能收放的厚短側附肢 + 停留時降低重心。
-
-這比純片狀折疊更像一個可以長期生活的生物，也比較不會落入符號設計。
-
----
-
-## Face / 表情原則
-
-第一輪不要靠臉決定可愛度。
-
-- 眼睛可以小
-- 嘴巴不必明顯
-- Transit Form 專注但不焦躁
-- Resting Form 不是笑，而是眼神與重心放鬆
-- 正面感主要來自牠「找到位置後願意把自己舒展開」
-
----
-
-## Tiny Habits / 小習慣
-
-目前可帶入 Field Sketch 的候選：
-
-- 抵達後先站兩秒，再決定往哪一側展開。
-- 如果陰影只夠遮住一半，牠會把比較柔軟的一側留在陰影裡。
-- 明明說只是停一下，身體卻已經完全展開。
-- 要重新出發時，會一小段一小段把自己收回去。
-- 如果目前的位置會擋到別人，牠可能默默收起一側，而不是整隻移走。`UNVERIFIED`
-
----
+### NEGOTIATION / 協商
+身體透過局部調整與周圍共享空間，而非永久佔領。
 
 ## Human Kindness / 微小善意候選
 
-目前不複製台北種的扶門／讓路。
+> 牠已經找到最舒服的位置。有人經過時，牠不離開，只把真正擋路的那一小部分收起來；人走後，再慢慢鬆回去。
 
-較符合台中種身體邏輯的候選是：
+目前 `UNVERIFIED`。
 
-> **牠舒服地展開後，如果發現自己的身體佔到別人的動線，會默默收起一側。**
+這不是一般「讓路」的複製，而必須和牠的 threshold habitat、節點生活與 Negotiable Body 同時成立才有意義。
 
-不是熱情招呼，也不是犧牲自己。
+## Body Research
 
-只是「這裡大家都要用」。
+下一輪不畫四個不同角色，也不再把「胖／瘦變形」當 identity。
 
-目前標記為 `UNVERIFIED`，等待後續觀察。
+要測試的是**同一基本生物如何嵌入不同小空間，同時保持 species recognition**。
 
----
+可能保留：低而穩的核心身體、局部可重新排列的厚軟組織、霧面被曬過的表面。
 
-## Visual Climate / 色彩研究
+避免：翅膀、披風、背包、葉片、帳篷、輪子、車殼、交通工具 anatomy。
 
-暫定研究詞：
+## Visual Climate
 
-`Sun-warmed Concrete / Deep Shade / Dust / Faded Green / Old Awning`
+研究詞：
+
+`Sun-warmed Concrete / Threshold Shade / Dust / Faded Green / Old Awning`
 
 尚未建立正式 Palette。
 
-色彩方向應有「被曬過」與「進入陰影」的明暗狀態差，而不是直接用鮮橘代表陽光。
+## Geographic Specificity Test
 
----
+下一輪至少比較：台北、高雄、台南，以及一個非台灣城市。
 
-## Visual Don'ts
+如果 `CROSS → DOCK → INHABIT → NEGOTIATE` 在其他地方幾乎原封不動成立，TW-002 必須再次退回研究。
 
-- 不使用台中國家歌劇院造型身體
-- 不使用珍珠奶茶作為主要角色符號
-- 不使用太陽餅角色化
-- 不用太陽 + 墨鏡表達氣候
-- 不把悠閒直接畫成躺平、睡覺或懶散
-- 不使用輪子、機車、汽車零件表達移動
-- 不複製台北種輪廓再換配件
-- 不用著名景點拼貼證明城市
-- 不把 Resting Form 畫成純粹的 generic blob
-- 不用誇張笑臉代替正面感
+## FIELD SKETCH 01 — Archive Status
 
----
+`REJECTED AS SPECIES IDENTITY / GENERIC URBAN MORPHOLOGY`
 
-## First Image Brief / 第一張 Field Sketch 規格
+保留理由：它成功發現「身體會依移動／停留改變」的可能性，也成功證明這個答案地域特異性不足。
 
-第一張圖**不是正式 Portrait**。
+## FIELD SKETCH 02 — Next Brief
 
-應該是一張角色設計研究紙，同一隻生物出現 3–4 次，展示：
+不要畫角色 turnaround。
 
-1. `TRANSIT FORM`
-2. `ARRIVAL / TRANSITION`
-3. `RESTING FORM`
-4. 一個「收起一側讓出空間」的小姿態
+畫同一隻暫定生物在四個抽象 threshold 情境中的使用方式：
 
-視覺：水彩、色鉛筆、粉彩與舊紙張質感；不乾淨、不像 character turnaround 商品設定稿。
+1. 柱腳旁的小剩餘空間
+2. 店面／通行空間的邊界
+3. 只覆蓋一部分身體的窄陰影
+4. 另一隻生物需要穿過
 
-背景只允許抽象的地面、陰影邊界、騎樓柱腳或店面邊緣痕跡，不出現可辨識地標。
+四格都不得出現地標、名產、交通工具或城市文字。
 
-這張圖的目的只有一個：
+測試目標：
 
-> **確認「收起來移動 / 展開來停留」是否真的能成為台中種的身體語言。**
-
----
+> **牠是否真的在「協商空間」，而不是只是一隻可以變胖變瘦的可愛都市生物？**
 
 ## Current Evidence State
 
-- Rhythm / Distance — `SUPPORTED DIRECTION`
-- Threshold / Pause — `SUPPORTED DIRECTION`
-- Personality — `PROVISIONAL`
+- Administrative-city identity — `REJECTED`
+- Lived-region hypothesis — `RESEARCHING`
+- Distance / Node — `SUPPORTED DIRECTION`
+- Threshold — `SUPPORTED DIRECTION`
+- Negotiable Body — `PROVISIONAL`
 - Core Tension — `PROVISIONAL`
-- Body System — `VISUAL STUDY`
-- Palette — `RESEARCHING`
 - Human Kindness — `UNVERIFIED`
+- Palette — `RESEARCHING`
 - Portrait — `NOT STARTED`
 - Collected Plate — `NOT STARTED`
 
 ## Next Step
 
-**GENERATE FIELD SKETCH 01.**
+`FIELD SKETCH 02 — THRESHOLD NEGOTIATION TEST`
 
-先測試身體語言，不測試城市 icon。
+在它通過 Geographic Specificity Test 以前，不進入正式 Portrait。
 
-如果拿掉所有「台中」文字後，這三種狀態仍然像同一隻有生活邏輯的生物，才繼續進入 Portrait 探索。
+## Revision History
+
+- **v0.1** — 初始台中 observation。
+- **v0.2** — Distance / Pause 與 Transit ↔ Resting visual study。
+- **v0.3** — Geographic Specificity Test 判定前一輪過度 generic；研究單位改為 lived region，核心轉向 `NEGOTIABLE BODY / CROSS → DOCK → INHABIT → NEGOTIATE`。
