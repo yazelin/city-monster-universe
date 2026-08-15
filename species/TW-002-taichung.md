@@ -1,156 +1,151 @@
-# TW-002 — 台中都會生活圈暫定種 / Taichung
+# TW-002 — Taichung Observation 002
 
 > **Archive:** Taiwan Field Archive  
 > **Status:** `OBSERVED — FIELD VALIDATION`  
-> **Classification:** 暫定台中都會生活圈節點型物種  
-> **Version:** 0.4 — threshold negotiation review  
+> **First observed:** Taichung  
+> **Range:** `UNKNOWN / likely broader than Taichung`  
+> **Classification:** provisional edge-reading organism  
+> **Version:** 0.5 — cross-region review  
 > **Last reviewed:** 2026-08-15
 
-> 「台中」目前是發現地標籤，不代表整個台中市只有一個 species，也不代表行政邊界就是棲地邊界。
+## Classification Note
 
-## Research Unit / 研究單位
+早期稱為「台中種」，目前已撤回此推定。台中是 first-observed location，不是 species range。
 
-TW-002 暫不代表整個台中行政區。目前研究的是：
+## Cross-region Evidence — 2026-08-15
 
-> **台中都會生活圈中，以跨節點移動、抵達後進入小尺度生活空間為主要節奏的環境。**
+台南的官方騎樓整頓與通行政策提供了重要反證：騎樓同樣長期面對停車、攤販、盆栽、招牌等私人／商業使用與公共通行需求的衝突，政府也以淨寬、障礙排除與友善通行方式重新協商其用途。
 
-## Core Observation / 核心觀察
+因此：
 
-> **牠常跨越很大的城市尺度，真正開始生活時，使用的卻是一小塊介於公與私之間的位置。**
+> **騎樓、公私模糊、停留／通行競爭與空間協商，不是台中限定現象。**
 
-暫定節奏：
+這表示 TW-002 若真的存在，更可能依附於某種 `EDGE / THRESHOLD HABITAT`，而不是台中行政區。
 
-`CROSS → DOCK → INHABIT → NEGOTIATE → CROSS`
+## Species Hypothesis — EDGE READING
 
-## Core Tension / 核心矛盾
+目前最值得保留的機制不是 `NEGOTIABLE BODY`，而是：
 
-> **城市很大，但牠真正使用的地方總是很小。**
+> **牠對「同一塊空間現在正在變成什麼用途」高度敏感。**
 
-第二層：
+可能讀取：
 
-> **牠可以很舒服，但不需要把那塊地方完全變成自己的。**
+`PASSAGE ↔ PARKING ↔ COMMERCE ↔ REST ↔ RESIDENCE`
 
-目前皆為 `PROVISIONAL`。
+當用途改變，牠才調整位置、姿態或身體排列。
 
-## Spatial Strategy — NEGOTIABLE BODY
+因此：
 
-「可協商的身體」不是變形超能力。牠在共享、借用、穿越、暫停的 threshold 中，透過局部姿態與身體排列調整自己。
+`EDGE READING` = species-level hypothesis  
+`NEGOTIABLE BODY` = possible morphology / behavioral result
 
-可能行為：靠一下 → 看一下 → 挪一下 → 安頓；有人通過時只調整真正擋路的部分；通道恢復後再回到舒服狀態。
+兩者不可混為一談。
 
-## Anthropomorphism / 擬人程度
+## Time-of-day Hypothesis
 
-**不預設。**
+TW-002 的 habitat 可能不是固定空間，而是**會隨時間改變用途的 edge**。
 
-Field Sketch v0.4 暫時採偏動物性的低擬人版本，只是測試載體，不代表 Canon。擬人程度必須由生活與棲地 evidence 決定；不能因為台北種較擬人，就強迫 TW-002 擬人，也不能為了區隔台北而故意把 TW-002 做成寵物型生物。
+真正值得觀察的是同一位置在：
 
-## FIELD SKETCH 01 — Archive Status
+- 早晨
+- 午間
+- 傍晚
+- 深夜
 
+如何從通行變成停留、商業、停車、住宅延伸，再重新鬆開。
+
+如果 TW-002 的行為跟著用途切換，而不是只跟地點移動，`EDGE READING` 才獲得更強支持。
+
+## Original Taichung Observation
+
+台中的研究仍有價值。私人運具、高比例跨節點移動、抵達後進入店面／住宅／騎樓邊界，以及不同用途在 edge 上疊加，可能讓台中成為此類 organism 的高可見度 observation field。
+
+但「高可見度」不等於「原生／限定」。
+
+## Core Tension / 核心矛盾候選
+
+早期：**城市很大，但牠真正使用的地方總是很小。**
+
+目前更深的候選：
+
+> **牠依賴的不是一個地方，而是一個地方暫時允許牠成為什麼。**
+
+`PROVISIONAL`
+
+## Anthropomorphism
+
+`UNDETERMINED`
+
+Field Sketch v0.4 的低矮、圓潤、帶刺／毛束外型仍不具有 species evidence。不得因為 edge habitat 就自動推導成角落寵物，也不得為了與 TW-001 對比而強迫擬人。
+
+## Previous Field Sketches
+
+### FIELD SKETCH 01
 `REJECTED AS SPECIES IDENTITY / GENERIC URBAN MORPHOLOGY`
 
-前一輪 Transit ↔ Resting 的收窄／展開可以發生在大量都市生物身上，地域特異性不足。
+### FIELD SKETCH 02 / v0.4
+`BEHAVIORALLY USEFUL / MORPHOLOGY UNPROVEN`
 
-## FIELD SKETCH 02 / v0.4 — Threshold Negotiation Test
+Threshold negotiation 行為有研究價值，但目前角色 morphology 過度 generic cute creature。
 
-測試同一暫定生物在四種情境：
+## Cross-species Calibration
 
-1. 柱腳旁與通行縫隙
-2. 店面／公共空間邊界
-3. 有限遮蔽與窄陰影
-4. 另一個生命需要通過
+### TW-001 — State Switching
+讀取的是：**自身下一刻需要切換成什麼狀態。**
 
-### Test Result
+### TW-002 — Edge Reading
+讀取的是：**環境下一刻正在變成什麼用途。**
 
-**Spatial behavior：部分通過。**
+這是目前最有價值的差異，但仍只是 hypothesis；未來 evidence 可能證明兩者其實是同 species 的不同 behavior，Archive 必須允許這種結果。
 
-圖中開始能看出牠不是單純「休息」，而是在讀取柱腳、店面邊界、陰影與他者動線；不同情境下仍保持同一物種辨識，證明 `NEGOTIABLE BODY` 可以作為行為研究方向。
+## Geographic Specificity Result
 
-**Species identity：未通過。**
+### Taichung-only hypothesis
+`NOT SUPPORTED`
 
-目前的低矮、圓潤、帶刺／毛束輪廓與小臉仍太接近 generic cute urban creature。把台中文字拿掉後，沒有足夠理由認為這個 morphology 是被台中都會生活圈塑造，而不是任意城市角落都能出現的生物。
+### Edge / threshold habitat hypothesis
+`SUPPORTED DIRECTION, RANGE UNKNOWN`
 
-**Geographic Specificity：未通過。**
+### Possible population structure
+`UNTESTED`
 
-四個 threshold 情境本身在台灣與其他高密度亞洲城市都可能存在。`NEGOTIABLE BODY` 目前只能證明一種都市生存策略，尚不能證明 TW-002 的地域 fingerprint。
+台中、台南或其他城市若都出現相同 mechanism，應比較 local population，而不是另造城市 species。
 
-**Anthropomorphism：無結論。**
+## Human Kindness
 
-本輪不能因角色看起來偏動物，就推論台中 species 應偏動物性；也不能因為與 TW-001 視覺差異大就判定錯誤。需要 evidence，而不是系列造型偏好。
-
-### Important Finding
-
-這輪最大的收穫不是找到造型，而是確認：
-
-> **「threshold negotiation」可以留下，但「這隻長這樣」目前沒有足夠證據。**
-
-因此保留行為假說，暫停 morphology convergence。
-
-## Difference from TW-001 — Current Calibration
-
-### TW-001 — Adaptive Trajectory
-研究問題：**我要怎麼穿過？**  
-主要關係：移動中的他者軌跡。
-
-### TW-002 — Negotiable Threshold
-研究問題：**抵達之後，我如何在一個不完全屬於我的位置生活？**  
-主要關係：節點、公私邊界、停留與共享。
-
-這仍只是研究上的區分，不能單靠這組對比完成地域認證。
-
-## Shaping Forces — Current
-
-- `DISTANCE` — 大尺度跨節點移動
-- `NODE` — 抵達後生活尺度突然縮小
-- `THRESHOLD` — 公／私、室內／室外、停留／通行的模糊介面
-- `SHADE & EXPOSURE` — 遮蔽會影響停留位置，但不是單獨地域特色
-- `NEGOTIATION` — 使用空間而不完全佔有空間
-
-## Human Kindness / 微小善意候選
-
-> 已經安頓後，如果自己的位置開始影響別人的使用，牠只調整必要的那一部分。
-
-仍為 `UNVERIFIED`。必須找到生活觀察支持，否則不能因為「很溫柔」而留下。
-
-## Geographic Specificity Review — 尚缺的證據
-
-下一階段停止畫新造型，先補以下問題：
-
-1. 台中都會生活圈的「跨節點 → 小尺度停留」是否真的形成可觀察的反覆生活模式？
-2. 哪些 threshold 使用方式在台北、高雄、台南也存在？差異在哪裡？
-3. 台中的店面、住宅、騎樓、道路與私人運具之間，是否形成特別的 arrival / docking 行為？
-4. 人抵達一個節點後，如何從「交通中的人」切換成「在這裡生活的人」？
-5. 哪些微小動作是因為空間配置反覆發生，而不是我們投射出的可愛性格？
-6. 白天、午後、黃昏、夜間的 threshold 使用是否顯著不同？
+「有人需要通過時，只調整必要部分」保留為 `UNVERIFIED`。目前不能把它當成 species trait；它可能只是我們投射的正面性格。
 
 ## Next Visual Rule
 
-**在上述 evidence 至少回答三項以前，不生成 Portrait，也不繼續收斂臉、刺、耳朵、四肢比例。**
+仍然暫停 Portrait。
 
-下一張視覺若要產生，應優先是 `ENVIRONMENTAL / BEHAVIOR STUDY`，不是角色設計稿。
+下一張應是：
+
+`ENVIRONMENTAL / TIME-OF-DAY STUDY`
+
+同一個沒有地標的 edge，以至少四個時間點觀察用途切換；organism 只用暫定剪影，避免角色造型先於 evidence。
 
 ## Current Evidence State
 
-- Administrative-city identity — `REJECTED`
-- Lived-region hypothesis — `RESEARCHING`
-- Distance / Node — `SUPPORTED DIRECTION`
-- Threshold negotiation — `SUPPORTED AS BEHAVIOR HYPOTHESIS`
+- Taichung-only species — `NOT SUPPORTED`
+- Edge Reading — `PROVISIONAL SPECIES HYPOTHESIS`
+- Threshold negotiation — `SUPPORTED BEHAVIOR DIRECTION`
 - Negotiable Body morphology — `UNPROVEN`
-- Core Tension — `PROVISIONAL`
-- Anthropomorphism level — `UNDETERMINED`
-- Human Kindness — `UNVERIFIED`
-- Palette — `RESEARCHING`
-- Portrait — `BLOCKED PENDING FIELD VALIDATION`
-- Collected Plate — `NOT STARTED`
+- Time-of-day dependency — `TO TEST`
+- Confirmed range — `UNKNOWN`
+- Anthropomorphism — `UNDETERMINED`
+- Portrait — `BLOCKED`
 
 ## Next Step
 
-`FIELD VALIDATION — ARRIVAL / THRESHOLD / DAILY RHYTHM`
+`CROSS-REGION + TIME-OF-DAY VALIDATION — TAICHUNG / TAINAN / KAOHSIUNG / CONTROL SITE`
 
-先研究生活，再決定身體。
+需要找出：哪些 edge conditions 出現時 TW-002 mechanism 成立；哪些看似相似的騎樓／街道其實不成立。
 
 ## Revision History
 
 - **v0.1** — 初始台中 observation。
-- **v0.2** — Distance / Pause 與 Transit ↔ Resting visual study。
-- **v0.3** — Geographic Specificity Test 判定前一輪過度 generic；研究單位改為 lived region，核心轉向 `NEGOTIABLE BODY`。
-- **v0.4** — Threshold Negotiation Test 顯示行為假說部分成立，但 morphology 與 Geographic Specificity 尚未成立；停止角色造型收斂，進入 Field Validation。
+- **v0.2** — Distance / Pause visual study。
+- **v0.3** — Geographic Specificity review，轉向 `NEGOTIABLE BODY`。
+- **v0.4** — Threshold Negotiation Test：behavior 部分成立、morphology 未成立。
+- **v0.5** — 台南 cross-region evidence 反證 Taichung-only 分類；核心上移至 `EDGE READING`，range 保持 UNKNOWN。
